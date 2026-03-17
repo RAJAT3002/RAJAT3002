@@ -59,7 +59,7 @@ endmodule
 
 ### 🔷 HDL & Verification
 ![Verilog](https://img.shields.io/badge/Verilog-RTL_Coder-00897B?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Testbench_Dev-1565C0?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Testbench_And_UVM-1565C0?style=for-the-badge)
 ![RTL Design](https://img.shields.io/badge/RTL_Design-Functional_Verification-4A148C?style=for-the-badge)
 ![Coverage](https://img.shields.io/badge/Coverage_Driven-Verification-6A1B9A?style=for-the-badge)
 
@@ -250,9 +250,8 @@ DRC/LVS clean silicon
 
 ## 📡 FIND ME
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a-rajat-kumar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJAT3002)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@here.com)
 
 <br/>
 
